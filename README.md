@@ -1,2 +1,2 @@
 # Commandos.exe
- Commandos.exe deletes the entire system and also skips running as administrator, and when it is closed from the process, it deletes the entire system and is characterized by its small size, as you can transfer it to the victims’ devices easily , I disclaim all liability for any misuse of this software
+Commandos.exe runs MbrOverwriter, and when it is closed from the process, the device is shut down permanently and forever. This is the last encounter between the user and his device. It is distinguished by its small size. You can also transfer it to the victims’ devices easily. It was made by Freemasonry and Clutter. I deny all responsibility for any wrongdoing. Use of this program
